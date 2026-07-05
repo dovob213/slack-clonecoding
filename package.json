@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "eslint": "^10.6.0",
+    "run-script-webpack-plugin": "^0.2.3",
+    "webpack": "^5.108.4",
+    "webpack-node-externals": "^3.0.0"
+  }
+}
